@@ -17,3 +17,10 @@ Personal Arduino Study Sketches
 - set rate limit between +- 2/step
 - write pwm signal on digital pin 11
 - circuit schematics
+
+
+## sketch_rgb.ino
+- pwm pin 5, 6, 9 for R, G, B
+- changing for R, G, B automatically
+- R,G,B in char
+- 
